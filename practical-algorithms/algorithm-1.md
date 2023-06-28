@@ -1,19 +1,14 @@
 ## Problem Statement
 
-Write a Java program to find the second highest number in an array.
+1.	Find the length of the hypotenuse of a right triangle given the lengths of its two opposing sides
+
+
+
 
 ## Algorithm
 
-1. Initialize two variables, one for the maximum value and one for the second highest value, with the minimum possible value of the data type used. (example: int max= Integer.MIN_VALUE, secMax = Integer.MIN_VALUE etc)
-
-2. Traverse the array in a loop starting at the beginning.
-
-3. For each element of the array, compare it with the value stored in the maximum value variable.
-   a) if the value is greater than maximum variable , then update the sec_max by assigning the current max before update the current Maximum value variable with the current value of the element.
-   b) if the value is not greater than max, yet greater than secondMax, then update the secondMax with current value.
-
-4. After the loop finishes, the second highest value variable passed with updated with second highest value
-
-5. check if we know if such secMax exist in the array if yes we print that values otherwise print not found to add one more contion
-
-6. Print the value of the second highest value found in the array.
+1.	Initialize the side 1 value as 3.0 in a variable called "side1".
+2.	Initialize the side 2 value as 4.0 in a variable called "side2".
+3.	Compute the square of "side1" and "side2” by using pow () method from the class called Math and reinitialize the variables with result.
+4.	Get the sum of "side1" and "side2” and store it in a variable called "hypotenuse_squared".
+5.	Take the square root of "hypotenuse_squared" and, after that, display it to the user as output.
