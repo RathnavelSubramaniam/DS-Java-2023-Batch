@@ -25,4 +25,5 @@
 
 
 ## Sample Output:
+
 ![Alt text](image-7.png)
