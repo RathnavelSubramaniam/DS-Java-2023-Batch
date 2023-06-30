@@ -1,7 +1,9 @@
 # Problem Statement:
 
-6.	Write a program to demonstrate how the command-line arguments are accessed inside a Java program  
+6.	Write a program to demonstrate how the command-line arguments are accessed inside a Java program 
+
 ## Algorithm:
+
 
 1.	Define a class named “Example” 
 2.	Inside the class, define the main method to accept command line arguments
@@ -10,4 +12,6 @@
 
 
 ## Sample Output:
+
+
 ![Alt text](image-4.png)
