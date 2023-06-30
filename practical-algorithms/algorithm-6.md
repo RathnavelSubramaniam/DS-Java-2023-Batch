@@ -1,8 +1,13 @@
-# Algorithm:
+# Problem Statement:
 
-1. Create a new node with the specified data to insert.
-2. If the linked list is empty (head is null), set the head to the new node.
-3. If the linked list is not empty, set both a slow pointer and a fast pointer to the head node.
-4. Traverse the linked list with the fast pointer moving two nodes at a time and the slow pointer moving one node at a time until the end of the list is reached or the fast pointer reaches the end.
-5. Set the next pointer of the new node to the next pointer of the slow pointer.
-6. Set the next pointer of the slow pointer to the new node.
+6.	Write a program to demonstrate how the command-line arguments are accessed inside a Java program  
+## Algorithm:
+
+1.	Define a class named “Example” 
+2.	Inside the class, define the main method to accept command line arguments
+3.	The args parameter is an array of strings that holds the command-line arguments passed to the program
+4.	Display the command-line arguments using the args array with for loop, just like any other array
+
+
+## Sample Output:
+![Alt text](image-4.png)
