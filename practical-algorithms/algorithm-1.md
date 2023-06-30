@@ -12,3 +12,7 @@
 3.	Compute the square of "side1" and "side2” by using pow () method from the class called Math and reinitialize the variables with result.
 4.	Get the sum of "side1" and "side2” and store it in a variable called "hypotenuse_squared".
 5.	Take the square root of "hypotenuse_squared" and, after that, display it to the user as output.
+
+## Sample Output:
+ 
+![Alt text](image.png)
