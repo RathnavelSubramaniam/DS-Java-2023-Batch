@@ -1,20 +1,20 @@
 ## Problem Statement
 
-Write a Java program to find the factorial of a given number using Recursion
-
+Find the factorial of a number using recursion
 ## Algorithm
 
-1. Start by validating the input, if a no is less than '0', return an error message "Invalid Number".
+1.	Define the class "Factorial"  with the recursive method "fact" within the class
+2.	In the method, Declare an integer parameter "n” and an integer variable “result”
+3.	Check if "n" is equal to 1
+		3.1 If true, return 1 as the base case of the recursion
+4. If "n" is not equal to 1, perform the following steps:
+      4.1 Call the "fact" method recursively with the argument "n-1" and assign the result to "result”
+      4.2 Multiply "result" with "n" and assign the product back to "result"
+5. Return the value of "result"
+6. Define the class "Recursion" with the main method
+7. Create an instance of the "Factorial" class named "f and call the method with different n
+          values
+8. Print the resultant value
 
-2. Declare a function 'factorial' that takes an integer 'n' as input. Inside the function check for the base case
-   a. If the value of 'n' is '0' , return 1.
-   b. If value of 'n' is 1, then the factorial should be 1 so return 'n'
-
-3. If it is not the base case, make a recursive call to the function 'factorial' which evaluates as follows: multiply the number n to the factorial value of 'n-1'. The factorial value of 'n-1' is determined by calling the function factorial recursively , passing 'n-1' as argument.
-
-4. Repeat step 3 by decrementing value of passed variable with each resursive call until it reaches 0 or 1 where base case returns and recursive calls are over.
-5. Before calling this `factorial` function do make sure to check if data input is valid, if it's not throw an exception if possible.
-
-6. Once you have returned from the final recursion, the return result should have evaluated the factorial. Return that value
-
-7. .At the end print result by calling factorial function with the value for which factorial is to be calculated.
+## Sample Output:
+![Alt text](image-2.png)
