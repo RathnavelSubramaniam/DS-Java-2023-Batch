@@ -8,11 +8,7 @@
 ## Announcements
 
 
-<div>
-  <ul>
-    <li id='time'></li>
-  </ul>
-</div>
+
 
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the practical.
 - The training page will have algorithms for your practical sessions.
