@@ -7,30 +7,6 @@
 
 ## Announcements
 
-<script>
-  var countDownDate = new Date("Feb 20, 2023 09:30:00").getTime();
-  var myfunc = setInterval(function() {
-    var now = new Date().getTime();
-    var timeleft = countDownDate - now;
-        
-    // Calculating the days, hours, minutes and seconds left
-    var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
-
-    var lastDate = new Date("Feb 24, 2023 12:45:00");
-
-    if(now<countDownDate){
-      document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
-    } else if(now>=countDownDate && now<=lastDate){
-      document.getElementById("time").innerHTML = 'The Training is LIVE! <br /> <br />';
-    } else if(now>lastDate){
-      document.getElementById("time").innerHTML = 'The Training is COMPLETED! <br /> <br />';
-    }
-
-  },1000);
-</script>
 
 <div>
   <ul>
