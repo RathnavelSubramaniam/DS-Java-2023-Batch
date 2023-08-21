@@ -7,12 +7,15 @@
 
 ## Algorithm
 
-1.	Initialize the side 1 value as 3.0 in a variable called "side1".
-2.	Initialize the side 2 value as 4.0 in a variable called "side2".
-3.	Compute the square of "side1" and "side2” by using pow () method from the class called Math and reinitialize the variables with result.
-4.	Get the sum of "side1" and "side2” and store it in a variable called "hypotenuse_squared".
-5.	Take the square root of "hypotenuse_squared" and, after that, display it to the user as output.
+
+
+1.	Define the class “area” with the main method 
+2.	Declare variable PI as double and initialize with a value of 3.14159 
+3.	Declare variable radius as double and initialize with a value of 10
+4.	Calculate the area of circle using the formula: area= PI * radius*radius
+5.	Display the value of area as output
+
 
 ## Sample Output:
  
-![Alt text](image.png)
+![Alt text](image-10.png)
