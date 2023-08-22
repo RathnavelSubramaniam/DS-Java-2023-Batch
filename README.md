@@ -13,12 +13,13 @@
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the practical.
 - The training page will have algorithms for your practical sessions.
 
-## Lecture Notes
+## Class Programs
 **Please select the link to access the slides **
 
 | Topic                                                                                        | Link|
 
-
+|ODD or Even | [Link](https://classroom.github.com/a/_ClntLhs)   |
+|Voting | [Link](https://classroom.github.com/a/726baEHG)   |
 
 
 ## Practicals
