@@ -20,6 +20,8 @@
 
 |ODD or Even | [Link](https://classroom.github.com/a/_ClntLhs)   |
 |Voting | [Link](https://classroom.github.com/a/726baEHG)   |
+|Biggest among 2 Numbers | [Link](https://classroom.github.com/a/WDLBFR02)   |
+
 
 
 ## Practicals
