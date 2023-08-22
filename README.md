@@ -16,11 +16,12 @@
 ## Class Programs
 **Please select the link to access the slides **
 
-| Topic                                                                                        | Link|
+| Topic                                              | Link|
 
 |ODD or Even | [Link](https://classroom.github.com/a/_ClntLhs)   |
 |Voting | [Link](https://classroom.github.com/a/726baEHG)   |
 |Biggest among 2 Numbers | [Link](https://classroom.github.com/a/WDLBFR02)   |
+|Biggest among 3 Numbers | [Link](https://classroom.github.com/a/6B1fNcKl)   |
 
 
 
