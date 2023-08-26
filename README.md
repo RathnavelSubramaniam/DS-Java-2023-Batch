@@ -23,7 +23,7 @@
 |Biggest among 2 Numbers | [Link](https://classroom.github.com/a/WDLBFR02)   |
 |Biggest among 3 Numbers | [Link](https://classroom.github.com/a/6B1fNcKl)  |
 
-| Absolute Numner (Using ternary operator) | [Link]()  |
+|Absolute Numner (Using ternary operator) | [Link](https://classroom.github.com/a/qE9PXPxg)  |
 
 
    |
