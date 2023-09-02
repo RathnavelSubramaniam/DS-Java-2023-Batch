@@ -2,7 +2,7 @@
 
 2.	Write a program to find Season using if-else-if and switch statements
 
-## Algorithm:( if-else-if Statement) :
+## Algorithm:( if-else-if Statement) : [Optional]
 
 1. Define the class "IfElse” with the main method within the class
 2.	Declare an integer variable "month" and assign it the value 4.
