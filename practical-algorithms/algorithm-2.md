@@ -43,4 +43,4 @@
 10. Print the message "April is in the " concatenated with the value of "season"
 
 ## Sample Output:
-![Alt text](image-1.png)
+![image](https://github.com/RathnavelSubramaniam/dsjava/assets/54302095/e1199c98-c90c-4545-a3b1-1eb8451e376b)
