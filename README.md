@@ -48,7 +48,7 @@
 | 8. Create a program with a superclass called Figure that defines a method called area( ) which computes the area of an object. Then derives two subclasses from Figure. The first is Rectangle and the second is Triangle. Each of these subclasses overrides area( ) so that it returns the area of a rectangle and a triangle, respectively                                |   |  | [Practical 8](https://classroom.github.com/a/3Dcw9-wQ) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md)   |
 | 9. Define a package named “MyPack” with the public class “Balance”. Import that package to make use of the Balance class                                            |   |  | [Practical 9](https://classroom.github.com/a/VNMh3fUg) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md)   |
 | 10. Demonstrate the implementation of an interface concept with a simple program                                             |   |  | [Practical 10](https://classroom.github.com/a/H44RCM7L) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-10.md) |
-| 11.	Develop a single Java program which caught ArithmeticException and ArrayIndexOutOfBoundsException                                             |   |  | [Practical 10](https://classroom.github.com/a/ZHQNMk3T) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-10.md) |
+| 11.	Develop a single Java program which caught ArithmeticException and ArrayIndexOutOfBoundsException                                             |   |  | [Practical 10](https://classroom.github.com/a/UjD7Euag) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-10.md) |
 
 
 
